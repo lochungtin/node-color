@@ -1,0 +1,21 @@
+{
+  "name": "@enigmaoffline/color",
+  "version": "1.0.0",
+  "description": "Simple color code management package for NodeJS",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "color",
+    "hex",
+    "hexcode",
+    "mixer"
+  ],
+  "author": "enigmaoffline",
+  "license": "MIT"
+}
