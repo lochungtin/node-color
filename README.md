@@ -41,3 +41,5 @@ console.log(Color.mixByValue(25, 25, 25, 125, 125, 125, 0.75));
 // => [ 50, 50, 50 ]
 
 ```
+
+<a href="https://github.com/lochungtin/color/blob/master/LICENSE">LICENSE - MIT - Lo Chung Tin</a>
