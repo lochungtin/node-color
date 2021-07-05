@@ -1,5 +1,5 @@
 {
-  "name": "@enigmaoffline/color",
+  "name": "@enigmaoffline/node-color",
   "version": "1.0.0",
   "description": "Simple color code management package for NodeJS",
   "main": "lib/index.js",
